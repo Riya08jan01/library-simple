@@ -1,0 +1,54 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# IntelliJ IDEA
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Output/err logs from runtime
+out.txt
+err.txt
+runlog.txt
+
+# Broken/tangled working copies (keep only the clean source)
+LibraryServer.broken.java
+LibraryServer.tangled.java
